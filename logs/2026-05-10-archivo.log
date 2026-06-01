@@ -1,0 +1,36 @@
+2026-05-10T22:55:03.269Z: error - invalid input syntax for type integer: "test-insert"
+Stack Trace:
+error: invalid input syntax for type integer: "test-insert"
+    at D:\GITProyectos\polshu\DAI-2022-PRIVATE\01-Node\ORT\Trabajos Practicos\tp-pg-alumnos\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async AlumnosRepository.getByIdAsync (file:///D:/GITProyectos/polshu/DAI-2022-PRIVATE/01-Node/ORT/Trabajos%20Practicos/tp-pg-alumnos/src/repositories/alumnos-repository.js:41:30)
+    at async AlumnosService.getByIdAsync (file:///D:/GITProyectos/polshu/DAI-2022-PRIVATE/01-Node/ORT/Trabajos%20Practicos/tp-pg-alumnos/src/services/alumnos-service.js:38:30)
+    at async file:///D:/GITProyectos/polshu/DAI-2022-PRIVATE/01-Node/ORT/Trabajos%20Practicos/tp-pg-alumnos/src/controllers/alumnos-controller.js:29:30
+
+2026-05-10T22:55:45.474Z: error - invalid input syntax for type integer: "test-insert"
+Stack Trace:
+error: invalid input syntax for type integer: "test-insert"
+    at D:\GITProyectos\polshu\DAI-2022-PRIVATE\01-Node\ORT\Trabajos Practicos\tp-pg-alumnos\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async AlumnosRepository.getByIdAsync (file:///D:/GITProyectos/polshu/DAI-2022-PRIVATE/01-Node/ORT/Trabajos%20Practicos/tp-pg-alumnos/src/repositories/alumnos-repository.js:41:30)
+    at async AlumnosService.getByIdAsync (file:///D:/GITProyectos/polshu/DAI-2022-PRIVATE/01-Node/ORT/Trabajos%20Practicos/tp-pg-alumnos/src/services/alumnos-service.js:38:30)
+    at async file:///D:/GITProyectos/polshu/DAI-2022-PRIVATE/01-Node/ORT/Trabajos%20Practicos/tp-pg-alumnos/src/controllers/alumnos-controller.js:29:30
+
+2026-05-10T22:56:42.983Z: error - invalid input syntax for type integer: "test-insert"
+Stack Trace:
+error: invalid input syntax for type integer: "test-insert"
+    at D:\GITProyectos\polshu\DAI-2022-PRIVATE\01-Node\ORT\Trabajos Practicos\tp-pg-alumnos\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async AlumnosRepository.getByIdAsync (file:///D:/GITProyectos/polshu/DAI-2022-PRIVATE/01-Node/ORT/Trabajos%20Practicos/tp-pg-alumnos/src/repositories/alumnos-repository.js:41:30)
+    at async AlumnosService.getByIdAsync (file:///D:/GITProyectos/polshu/DAI-2022-PRIVATE/01-Node/ORT/Trabajos%20Practicos/tp-pg-alumnos/src/services/alumnos-service.js:38:30)
+    at async file:///D:/GITProyectos/polshu/DAI-2022-PRIVATE/01-Node/ORT/Trabajos%20Practicos/tp-pg-alumnos/src/controllers/alumnos-controller.js:29:30
+
+2026-05-10T22:57:42.414Z: error - invalid input syntax for type integer: "test-insert"
+Stack Trace:
+error: invalid input syntax for type integer: "test-insert"
+    at D:\GITProyectos\polshu\DAI-2022-PRIVATE\01-Node\ORT\Trabajos Practicos\tp-pg-alumnos\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async AlumnosRepository.getByIdAsync (file:///D:/GITProyectos/polshu/DAI-2022-PRIVATE/01-Node/ORT/Trabajos%20Practicos/tp-pg-alumnos/src/repositories/alumnos-repository.js:41:30)
+    at async AlumnosService.getByIdAsync (file:///D:/GITProyectos/polshu/DAI-2022-PRIVATE/01-Node/ORT/Trabajos%20Practicos/tp-pg-alumnos/src/services/alumnos-service.js:38:30)
+    at async file:///D:/GITProyectos/polshu/DAI-2022-PRIVATE/01-Node/ORT/Trabajos%20Practicos/tp-pg-alumnos/src/controllers/alumnos-controller.js:29:30
+
